@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Make the Kattis problems pages background darker.
 // @author       You
-// @match        https://reykjavik.instructure.com/*
+// @match        https://*.instructure.com/*
 // @grant        none
 // ==/UserScript==
 
