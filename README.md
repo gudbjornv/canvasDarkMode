@@ -8,3 +8,4 @@ A light JS script for *GreaseMonkey* or *TamperMonkey* to display Canvas in a **
 + Headers of assignment tabs not correct color
 + Hovering over grades displays white overlay
 + Users tab shows every other persons row in near-white colors
++ Zoom and Echo360 windows are white
